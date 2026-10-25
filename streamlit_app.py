@@ -211,7 +211,7 @@ with st.sidebar:
         "A — escala horizontal",
         min_value=-3.0,
         max_value=3.0,
-        step=0.05,
+        step=0.01,
         key="param_A",
         help="Multiplica la variable dentro de la función: A·r + B.",
     )
