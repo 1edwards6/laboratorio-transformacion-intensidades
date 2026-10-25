@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+# Imágenes de trabajo locales (no subir datos sensibles)
+*.dcm
+*.dicom
